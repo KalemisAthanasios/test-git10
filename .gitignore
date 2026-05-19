@@ -3,6 +3,7 @@ out/
 !**/src/main/**/out/
 !**/src/test/**/out/
 .kotlin
+git10.iml
 
 ### Eclipse ###
 .apt_generated
